@@ -1,0 +1,29 @@
+{
+  "name": "drawline",
+  "version": "0.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobemilandersson/drawlinedatabasetest.git"
+  },
+  "engines": {
+	"node": "6.9.2"
+  },
+  "author": "adrian",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/adty3240/Drawline/issues"
+  },
+  "homepage": "https://github.com/adty3240/Drawline#readme",
+  "devDependencies": {}
+}
